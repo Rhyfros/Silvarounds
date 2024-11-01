@@ -1,7 +1,5 @@
-Yo, I'm BioRokky/Silvaroundss
-I Like JS and Lua
-Currently rough-housing html and falling on my ass every time i try learning it. 
-I Wanna collab making game cheats
-Discord - sises
-
-
+Hello, I am BioRokky/Silvaroundss.
+I like JavaScript and Lua.
+Currently having a tough time learning HTML.
+I want to collaborate with others to make cheats for games.
+My Discord account is @sises.
